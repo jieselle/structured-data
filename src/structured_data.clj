@@ -19,7 +19,7 @@
   [bottom-left top-right])
 
 (defn width [rectangle]
-  :-)
+  "")
 
 (defn height [rectangle]
   :-)
